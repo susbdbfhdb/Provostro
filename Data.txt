@@ -1,0 +1,8 @@
+# palofsc: Configuration data structure for automated tasks.
+# Each line contains one target entry to be processed by the script.
+
+# Format: [Target_URL]|[Category_ID]
+
+https://www.tiktok.com/@username/video/1234567890123456789|1
+https://www.tiktok.com/@username/video/9876543210987654321|2
+# End of file
