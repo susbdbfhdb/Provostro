@@ -3,6 +3,5 @@
 
 # Format: [Target_URL]|[Category_ID]
 
-https://www.tiktok.com/@username/video/1234567890123456789|1
-https://www.tiktok.com/@username/video/9876543210987654321|2
+https://vt.tiktok.com/ZSCGp9yFp/|1
 # End of file
