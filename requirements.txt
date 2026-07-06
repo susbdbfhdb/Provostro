@@ -1,7 +1,2 @@
-# palofsc: Configuration data structure for automated tasks.
-# Each line contains one target entry to be processed by the script.
-
-# Format: [Target_URL]|[Category_ID]
-
-https://vt.tiktok.com/ZSCGp9yFp/|1
-# End of file
+playwright
+requests
